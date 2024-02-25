@@ -10,9 +10,9 @@ parts:
   - caption: The Top Tier
     chapters: 
     - file: capilano.md
-  - caption: Spotlight: North America
+  - caption: Spotlight North America
     chapters:
     - file: british_columbia.ipynb 
-  - caption: Spotlight: The Old Country
+  - caption: Spotlight The Old Country
     chapters:
     - file: united_kingdom.ipynb
