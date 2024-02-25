@@ -4,42 +4,21 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Introduction
+  - caption: Career Summary
     chapters:
-    - file: program_intro.md
-    - file: responsibilities.md
-    - file: training.md
-    - file: safety.md
-  - caption: Standards
+    - file: master_data.ipynb
+  - caption: The Top Tier
+    chapters: 
+    - file: capilano.md
+  - caption: Spotlight: North America
     chapters:
-    - file: standards.md
-  - caption: Station Network
+    - file: british_columbia.ipynb 
+  - caption: Spotlight: The Old Country
     chapters:
-    - file: stations.md
-    - file: overview_map.ipynb
-    - file: components.md
-  - caption: Maintenance
+    - file: united_kingdom.ipynb
+  - caption: Competititive Acheivements
     chapters:
-    - file: field_service.md
-    - file: sensor_calibration.md
-  - caption: Remote Sensing
+    - file: 
+  - caption: Aknkowledgements
     chapters:
-    - file: program_overview.md
-  - caption: Field Programs
-    chapters:
-    - file: snow_survey.md
-    - file: limnology.md
-    - file: forest_health.md
-  - caption: Data Management
-    chapters:
-    - file: wiski.md
-    - file: pi.md
-  - caption: Reporting
-    chapters:
-    - file: snow_report.md
-    - file: fire_report.md
-    - file: climate_report.md
-  - caption: Program Resources
-    chapters:
-    - file: useful_links.md
-    - file: forecasting.md
+    - file: 

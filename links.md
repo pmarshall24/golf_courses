@@ -1,4 +1,4 @@
-# Links and Resources
+# Capilano Golf and Country Club
 
 Click on the links below to find more information, or the most current information, on conditions described in this report.
 
