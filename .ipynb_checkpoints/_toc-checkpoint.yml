@@ -16,9 +16,3 @@ parts:
   - caption: Spotlight: The Old Country
     chapters:
     - file: united_kingdom.ipynb
-  - caption: Competititive Acheivements
-    chapters:
-    - file: 
-  - caption: Aknkowledgements
-    chapters:
-    - file: 
