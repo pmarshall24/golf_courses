@@ -1,0 +1,11 @@
+course_name,city,state,country,latitude,longitude,year,length,personal_rating,times_played,best_score,geometry
+Cypress Point Golf Club,Monterey,California,United States of America,36.568,-121.949,2015,18,11.0,1,72.0,POINT (-121.949 36.568)
+Pebble Beach Links,Pebble Beach,California,United States of America,37.004,-121.871,1995,18,10.0,2,75.0,POINT (-121.871 37.004)
+Capilano Golf and Country Club,West Vancouver,BC,Canada,49.354,-123.125,1965,18,10.0,3000,65.0,POINT (-123.125 49.354)
+Olympic Lake Course,San Francisco,California,United States of America,37.728,-122.48,1986,18,10.0,1,79.0,POINT (-122.48 37.728)
+Pine Valley GC,Clementon,New Jersey,United States of America,39.787,-74.969,1997,18,10.0,1,75.0,POINT (-74.96899999999999 39.787)
+Bandon Dunes GC,Bandon,Oregon,United States of America,43.196,-124.391,2010,18,10.0,1,75.0,POINT (-124.391 43.196)
+The National Golf Club,Woodbridge,ON,Canada,43.807,-79.576,1990,18,10.0,1,79.0,POINT (-79.57599999999999 43.807)
+Pacific Dunes GC,Bandon,Oregon,United States of America,43.196,-124.391,2004,18,10.0,3,76.0,POINT (-124.391 43.196)
+Torrey Pines -- South,San Diego,California,United States of America,32.889,-117.25,1986,18,9.7,1,73.0,POINT (-117.25 32.889)
+St George's G&CC,Toronto,ON,Canada,43.754,-79.429,1988,18,9.5,1,80.0,POINT (-79.429 43.754)

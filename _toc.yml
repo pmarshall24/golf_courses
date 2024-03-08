@@ -4,15 +4,20 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Career Summary
-    chapters:
-    - file: master_data.ipynb
-  - caption: The Top Tier
+  - caption: Summary
     chapters: 
+    - file: master_data.ipynb
+  - caption: Course Highlights
+    chapters: 
+    - file: top_five.md
     - file: capilano.md
-  - caption: Spotlight North America
+    - file: regional.ipynb 
+  - caption: Achievements
     chapters:
-    - file: british_columbia.ipynb 
-  - caption: Spotlight The Old Country
+    - file: low_scores.md
+    - file: holes_in_one.md
+    - file: competition.md    
+  - caption: Acknowledgements and Photos
     chapters:
-    - file: united_kingdom.ipynb
+    - file: acknowledgements.md
+    - file: photos.md

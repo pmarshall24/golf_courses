@@ -13,17 +13,19 @@ Mike first played CGCC as a young teenager in 1964. These early rounds of golf w
 
 Mike's first senior club championship came in 2008 with a come-from-behind win, down one stroke with two holes to play. The prize for this win was a round of golf at Capilano with PGA pro and Master's winner, Mike Weir (a Canadian golf legend). Mike would secure three more senior club championships between 2016 and 2019. Additionally, Mike and his oldest friend and teammate Peter Therien would go on to win six greensome championships at Capilano.
 
-```{dropdown} Course Details and Personal Records
-
-| Detail | Value |
-| -  | - | - |  - | - |
-| Par | 70 | 
-| Rating | 72 | 
-| Slope | 135 |
-| Distance | 6524 yards |
-| Best Score |  65 | 
-| Holes in 1 | 4 | 
-
+```{dropdown} Course Details
+- Par, *70*
+- Course length, *6524 yards*
+- Rating, *72*
+- Slope, *135*
+```
+```{dropdown} Personal Records
+- First played, *1964*
+- Best score, *65*
+- Holes in one, *4*
+- Senior club championships, *4*
+- Greensome championships, *6*
+- Long drive contest wins, *0*
 ```
 
 ```{epigraph}
