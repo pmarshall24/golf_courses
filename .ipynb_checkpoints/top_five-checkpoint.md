@@ -18,7 +18,7 @@ Cypress Point GC is a ultra-private club located on the Monterey Peninsula in Ca
 :::
 
 :::{grid-item-card} Personal Stats
-- Year played: 12015
+- Year played: 2015
 - Score: 72
 - Playing Partner: Bob Marshall
 :::
@@ -56,6 +56,7 @@ The Pine Valley GC is a private course located in southern New Jersey. Visitors 
 :::{grid-item-card} Personal Stats
 - Year played: 1997
 - Score: 75
+- Playing partner: Buzz Kinnamont
 :::
 
 ::::
@@ -157,7 +158,7 @@ The [Sunningdale Golf Club](https://www.sunningdalegolfclub.co.uk/) is located i
 :::{grid-item-card} Personal Stats
 - Year played: 1972
 - Score: 82
-- Playing partner: 
+- Playing partners: Peter Therrien 
 :::
 
 ::::
