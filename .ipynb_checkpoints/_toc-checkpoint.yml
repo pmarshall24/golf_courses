@@ -15,7 +15,7 @@ parts:
   - caption: Achievements
     chapters:
     - file: low_scores.md
-    - file: hole_in_one.md
+    - file: holes_in_one.md
     - file: competition.md    
   - caption: Acknowledgements and Photos
     chapters:

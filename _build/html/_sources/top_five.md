@@ -18,7 +18,7 @@ Cypress Point GC is a ultra-private club located on the Monterey Peninsula in Ca
 :::
 
 :::{grid-item-card} Personal Stats
-- Year played: 12015
+- Year played: 2015
 - Score: 72
 - Playing Partner: Bob Marshall
 :::

@@ -23,7 +23,7 @@ The duo of Mike Marshall and Peter Therrien were virtually unbeatable for a time
 
 **4. Top Results in the BC Senior Championships**
 
-- Tied for 16th in the [2016 BC Seniors](https://britishcolumbiagolf.org/images/2016_Senior_Men.pdf) at Shuswap Lake Estates GC
+- Tied for 19th in the [2016 BC Seniors](https://britishcolumbiagolf.org/images/2016_Senior_Men.pdf) at Shuswap Lake Estates GC
 - Tied for 17th in the [2011 BC Seniors](https://britishcolumbiagolf.org/images/2011_Mens_Senior.pdf) at Squamish Valley GC
 - Tied for 8th in the [2010 BC Seniors](https://britishcolumbiagolf.org/images/2010_Mens_Senior.pdf) at Ledgeview GC
 - Tied for 13th in the [2008 BC Seniors](https://britishcolumbiagolf.org/images/2008_Mens_Senior.pdf) at Summerland G&CC
