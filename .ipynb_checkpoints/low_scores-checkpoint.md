@@ -64,7 +64,7 @@ Mountain Brook GC Scorecard
 
 ::::
 
-:::{figure} img/low_score.jpg
+:::{figure} img/low_score2.jpg
 ---
 height: 300px
 name: stoneridge

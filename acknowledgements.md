@@ -8,7 +8,15 @@ No married person would be able to play over 1000 golf courses and remain marrie
 
 ## A Chance to Teach the Game
 
-Perhaps one of the highlights of his golf career may have been the time spent on the course with family. Mike was able to teach the game of golf (and a variety of swear words) to his kids. This included many summer evenings at Capilano (usually a second round of the day), and many holiday rounds in the Okanagan and other areas. Bob would take what he learned to become the Capilano Junior Boys Champion, beating out the recently crowned Men's Club Champion. Tom would be known for his booming drives. And Pete was best known for exploring the surrounding forests while others played the actual course. 
+Perhaps one of the highlights of his golf career may have been the time spent on the course with family. Mike was able to teach the game of golf (and a variety of swear words) to his kids. This included many summer evenings at Capilano (usually a second round of the day), and many holiday rounds in the Okanagan and other areas. Bob would take what he learned to become the Capilano Junior Boys Champion, beating out the recently crowned Men's Club Champion. Tom would be known for his booming drives. And Pete was best known for exploring the surrounding forests while others played the actual course. It must have been nice to be seen as the best golfer in the world by his young kids.  
+
+```{figure} img/bob_dad.jpg
+---
+height: 300px
+name: family
+---
+Cypress Point GC with Bob
+```
 
 ## Regular Playing Partners
 

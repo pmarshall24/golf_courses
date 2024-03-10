@@ -1,11 +1,11 @@
 # The Best Courses Played
 
-This page highlights Mike's personal favorite golf courses. The top 4 are absolute standouts, but there are a number of courses that could have claimed the fifth spot. These courses are mentioned in the tier two section below. Capilano Golf and Country Club gets it's own page because of the personal history here. 
+This page highlights Mike's personal favorite golf courses. The top 4 are absolute standouts, but there are a number of courses that could have claimed the fifth spot. Sunningdale Old and New were selected, and the other favorites are mentioned in the tier two section below. Capilano Golf and Country Club gets it's own page because of the personal history here. 
 
 ## The Top Five
 
 ```{dropdown} 1. Cypress Point Golf Club
-Cypress Point GC is a ultra-private club located on the Monterey Peninsula in California. It's surrounded by other great courses like Pebble Beach and Spyglass Hill, but it's much harder to get a ticket to play here. Cypress Point is consistently rated in the top 5 courses in America, and was rated third in [*Golf Digest's* 2023 rankings](https://www.golfdigest.com/story/americas-100-greatest-golf-courses-ranking). This round was a very memorable Father's Day present from Bob, who was lucky enough to play with him. 
+Cypress Point GC is a ultra-private club located on the Monterey Peninsula in California. It's surrounded by other great courses like Pebble Beach and Spyglass Hill, but it's much harder to get a ticket to play here. Cypress Point is consistently rated in the top 5 courses in America, and was rated third in [*Golf Digest's* 2023 rankings](https://www.golfdigest.com/story/americas-100-greatest-golf-courses-ranking). This round was a very memorable Father's Day present from Bob (or Millie), who was lucky enough to play with him. Amazingly, Millie was able to set up this round after striking up a conversation with a club member on a flight. 
 
 ::::{grid}
 :gutter: 2
@@ -188,7 +188,7 @@ These courses get honorable mention. Second-team all-stars if you will. Many of 
 - [The Old Course at St. Andrew's](https://standrews.com/golf/courses/old-course). St. Andrew's, Scotland. **World rank: 9**
 - [Royal Dornoch Golf Club](https://royaldornoch.com/). Dornoch, Scotland. **World Rank: 3**
 - [Carne Golf Club](https://www.carnegolflinks.com/). North Mayo, Ireland. 
-- [Machrihanish Golf Club](https://www.machgolf.com/). Machrihanish, Scotland. **World rank: 64**
+- [Macrihanish Golf Club](https://www.machgolf.com/). Macrihanish, Scotland. **World rank: 64**
 - [St. Enodoc Golf Club](https://www.st-enodoc.co.uk/). Wadebridge, Cornwall, England. **World rank: 82**
 - [Burnham and Berrow Golf Club](https://www.burnhamandberrowgolfclub.co.uk/). Burnham on Sea, Somerset, England. 
 - [Royal Troon Golf Club](https://www.royaltroon.co.uk/). Troon, Scotland. **World rank: 53**
