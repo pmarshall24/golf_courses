@@ -31,7 +31,7 @@ Golfing at St. Andrew's
 height: 300px
 name: tropics
 ---
-Golfing in the warmer climate zones
+Golfing in New Zealand
 ```
 
 ```{figure} img/mm_ireland.jpg
@@ -39,7 +39,7 @@ Golfing in the warmer climate zones
 height: 300px
 name: Ireland
 ---
-Links golf in Ireland
+Links golf in Scotland
 ```
 
 ```{figure} img/bermuda.jpg
@@ -48,4 +48,20 @@ height: 300px
 name: Bermuda
 ---
 Mike golfing in Bermuda
+```
+
+```{figure} img/mike_cypress.jpg
+---
+height: 300px
+name: Cypress_Ppint
+---
+The Ultimate - Cypress Point Golf Club
+```
+
+```{figure} img/mike_cypress.jpg
+---
+height: 300px
+name: Cypress_Ppint
+---
+The Ultimate - Cypress Point Golf Club
 ```
