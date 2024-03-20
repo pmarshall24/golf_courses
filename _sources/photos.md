@@ -57,11 +57,3 @@ name: Cypress_Ppint
 ---
 The Ultimate - Cypress Point Golf Club
 ```
-
-```{figure} img/mike_cypress.jpg
----
-height: 300px
-name: Cypress_Ppint
----
-The Ultimate - Cypress Point Golf Club
-```
