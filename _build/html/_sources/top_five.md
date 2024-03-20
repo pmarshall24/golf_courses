@@ -33,6 +33,14 @@ name: cypress_point
 Cypress Point Golf Club
 :::
 
+:::{figure} img/cypress_sc.jpg
+---
+height: 500px
+name: cypress_point_sc
+---
+Cypress Point Score Card
+:::
+
 :::{epigraph}
 “Cypress Point is simply the most amazing golf experience there is!"
 
